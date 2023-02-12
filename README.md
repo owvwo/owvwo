@@ -1,5 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:467985,100:1F1E1F&fontColor=FFFFFF&height=300&section=header&text=SeungHoon%20Choi&fontSize=90&animation=fadeIn&fontAlignY=38&desc=FE%20Devloper%20|%20owvwo)
 
+<div align = 'right'>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fowvwo&count_bg=%2379C83D&title_bg=%23555555&icon=smugmug.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+</div>
+
+<h2> Profile </h2>
+
+- Mail : yamyam0630@gmail.com
+- Velog : <a href="https://velog.io/@owvwo"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=black"/></a>
+
 <h2> Experience </h2>
 
 ###### (2016.03 - 2022.3)
